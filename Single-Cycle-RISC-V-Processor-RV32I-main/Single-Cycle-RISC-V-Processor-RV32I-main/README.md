@@ -19,7 +19,7 @@ The design follows the classical single-cycle datapath, where each instruction c
 * FPGA Implementation on Basys3
 * Vivado Simulation and Verification
 * LED-Based Debug Interface
-* Instruction and Data Memory
+* Instruction and Data Memory Support
 * Register File with 32 General-Purpose Registers
 * Branch and Jump Instruction Support
 
