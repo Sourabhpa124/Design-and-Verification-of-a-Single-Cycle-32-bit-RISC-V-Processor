@@ -4,8 +4,6 @@
 
 This project implements a 32-bit Single-Cycle RISC-V Processor based on the RV32I Base Integer Instruction Set Architecture (ISA) using Verilog HDL.
 
-The processor was developed as part of the VLSI-CAD Summer Internship 2026 at NIT Rourkela and was successfully simulated, synthesized, and implemented on the Digilent Basys3 FPGA board using AMD Xilinx Vivado.
-
 The design follows the classical single-cycle datapath, where each instruction completes all five stages—Instruction Fetch (IF), Instruction Decode (ID), Execute (EX), Memory Access (MEM), and Write Back (WB)—within a single clock cycle.
 
 ---
@@ -174,12 +172,4 @@ Through this project, I gained practical experience in:
 
 ---
 
-## Author
 
-Moursagna Rao Korla (Mourya)
-
-B.Tech Electronics and Communication Engineering
-
-Anurag University
-
-VLSI-CAD Summer Internship 2026, NIT Rourkela
